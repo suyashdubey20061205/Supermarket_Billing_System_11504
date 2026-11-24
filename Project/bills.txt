@@ -1,0 +1,5 @@
+Bill for suyash: Rice x1 = 60 | Total 60
+Bill for op: Milk x2 = 60 | Total 60
+Bill for Suyash: Milk x2 = 60, Bread x2 = 80, Rice x1 = 60 | Total 200
+Bill for Tejas: Rice x2 = 120, Milk x3 = 90 | Total 210
+Bill for Suyash: Rice x5 = 300, Milk x7 = 210 | Total 510
